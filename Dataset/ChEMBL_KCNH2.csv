@@ -1,7 +1,0 @@
-"ChEMBL ID";"Name";"UniProt Accessions";"Type";"Organism";"Compounds";"Activities";"Tax ID";"Species Group Flag"
-"CHEMBL2362996";"Voltage-gated potassium channel";"P51787|Q9UK17|Q12809|P16389|Q09470|O43526|O43525|Q96RP8|Q9NR82|P56696|O95259|P22459|P22460|P22001|P17658|P48547|Q9NZV8|Q92953|Q03721|Q14003|Q14721|Q16322|Q6PIU1|Q8NCM2|Q8TAE7|Q8TDN1|Q8TDN2|Q96KK3|Q96L42|Q96PR1|Q9BQ31|Q9H252|Q9H3M0|Q9NS40|Q9NSA2|Q9UIX4|Q9UJ96|Q9ULD8|Q9ULS6|Q9UQ05";"PROTEIN FAMILY";"Homo sapiens";"23";"23";"9606";"False"
-"CHEMBL2216746";"Potassium voltage-gated channel subfamily H member 2";"Q8WNY2";"SINGLE PROTEIN";"Oryctolagus cuniculus";"1";"1";"9986";"False"
-"CHEMBL5557";"Potassium voltage-gated channel subfamily H member 2";"O08703";"SINGLE PROTEIN";"Cavia porcellus";"22";"22";"10141";"False"
-"CHEMBL3085616";"Potassium voltage-gated channel subfamily H member 2";"Q9TSZ3";"SINGLE PROTEIN";"Canis familiaris";"1";"1";"9615";"False"
-"CHEMBL4106188";"Melanin-concentrating hormone receptor 2/HERG";"Q12809|Q969V1";"SELECTIVITY GROUP";"Homo sapiens";"14";"14";"9606";"False"
-"CHEMBL240";"HERG";"Q12809";"SINGLE PROTEIN";"Homo sapiens";"18200";"23946";"9606";"False"
