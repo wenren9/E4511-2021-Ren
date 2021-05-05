@@ -1,7 +1,7 @@
 # E4511-2021-Ren
-It is also known as hERG1. Diseases associated with KCNH2 include Long Qt Syndrome 2 and Short Qt Syndrome 1. 
+The KCNH2 gene is also known as hERG1. Diseases associated with KCNH2 include Long Qt Syndrome 2 and Short Qt Syndrome 1. 
 
-The KCNH2 gene belongs to a large family of genes that provide instructions for making potassium channels. These channels, which transport positively charged atoms (ions) of potassium out of cells, play key roles in a cell's ability to generate and transmit electrical signals.
+It belongs to a large family of genes that provide instructions for making potassium channels. These channels, which transport positively charged atoms (ions) of potassium out of cells, play key roles in a cell's ability to generate and transmit electrical signals.
 
 Channels made with KCNH2 proteins are active in heart (cardiac) muscle. They are involved in recharging the cardiac muscle after each heartbeat to maintain a regular rhythm. 
 
